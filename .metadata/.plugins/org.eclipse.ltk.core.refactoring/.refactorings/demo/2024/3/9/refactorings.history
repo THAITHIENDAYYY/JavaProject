@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;demo/src/main/resources/templates/amdin&apos; to &apos;admin&apos;" description="Rename resource &apos;amdin&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/templates/amdin" name="admin" stamp="1709306153853" updateReferences="true"/>
+</session>
